@@ -1,1 +1,2 @@
-string =SCHOOL	School data
+#!/bin/bash
+file -C -m <school.mgc>
